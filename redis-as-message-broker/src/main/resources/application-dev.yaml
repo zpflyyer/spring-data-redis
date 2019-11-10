@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: redis-as-message-broker
+  redis:
+    host: 39.100.76.221

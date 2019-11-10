@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: redis-as-message-broker
+  profiles:
+    active: dev
