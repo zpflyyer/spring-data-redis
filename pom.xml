@@ -11,6 +11,7 @@
     <modules>
         <module>redis-as-message-broker</module>
         <module>reactive-access-with-redis</module>
+        <module>redis-data-structure</module>
     </modules>
 
     <parent>
